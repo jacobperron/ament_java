@@ -1,4 +1,3 @@
-Ament tools for Java
---------------------
+# ament_java_resources
 
-This repository includes `ament_build_type_gradle`, a build type for Ament for Gradle projects.
+This repository contains resources for ament Gradle projects.
